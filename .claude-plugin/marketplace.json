@@ -1,0 +1,12 @@
+{
+  "name": "honigeintopf-skills",
+  "description": "Skills für Reels, TikToks und Shorts, direkt in Claude Code",
+  "owner": { "name": "Ebubekir Ates", "url": "https://github.com/Honigeintopf" },
+  "plugins": [
+    {
+      "name": "reels-video-editor",
+      "source": "./",
+      "description": "Talking-Head-Videos per Claude Code schneiden: Untertitel, Hook, Grafiken, Export für Reels und TikTok"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reels-video-editor",
+  "displayName": "Reels Video Editor",
+  "description": "Talking-Head-Videos per Claude Code schneiden: Ton säubern, Untertitel mit Wort-Timing, Hook-Caption, erklärende Grafiken, Export für Reels, TikTok und Shorts",
+  "author": { "name": "Ebubekir Ates", "url": "https://github.com/Honigeintopf" },
+  "homepage": "https://github.com/Honigeintopf/reels-video-editor",
+  "repository": "https://github.com/Honigeintopf/reels-video-editor",
+  "license": "MIT",
+  "keywords": ["video", "reels", "tiktok", "shorts", "ffmpeg", "untertitel"]
+}
